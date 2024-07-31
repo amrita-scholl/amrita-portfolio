@@ -9,9 +9,7 @@ import About from "./Pages/About";
 import Contact from "./Pages/Contact";
 import Education from "./Pages/Education";
 import Home from "./Pages/Home";
-import Jsprojects from "./Pages/Jsprojects";
 import PageNotFound from "./Pages/PageNotFound";
-import Projects from "./Pages/Projects";
 import Services from "./Pages/Services";
 import Work from "./Pages/Work";
 
@@ -37,8 +35,8 @@ function App() {
         <Route path="/services" element={<Services />}></Route>
         <Route path="/work" element={<Work />}></Route>
         <Route path="/education" element={<Education />}></Route>
-        <Route path="/projects" element={<Jsprojects />}></Route>
-        <Route path="/portfolio" element={<Projects />}></Route>
+        {/* <Route path="/projects" element={<Jsprojects />}></Route> */}
+        {/* <Route path="/portfolio" element={<Projects />}></Route> */}
         <Route path="/contact" element={<Contact />}></Route>
         <Route path="*" element={<PageNotFound />}></Route>
       </Routes>
