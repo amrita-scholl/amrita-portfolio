@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/amrita-portfolio/static/css/main.0e0d1f56.css",
+    "main.js": "/amrita-portfolio/static/js/main.6c9f94f9.js",
+    "static/js/787.a7438d8f.chunk.js": "/amrita-portfolio/static/js/787.a7438d8f.chunk.js",
+    "static/media/luxurysteeldoors.png": "/amrita-portfolio/static/media/luxurysteeldoors.7202ce519b334bd1a2e2.png",
+    "static/media/djzaame.png": "/amrita-portfolio/static/media/djzaame.19f0772a3f59b42ff5fe.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/amrita-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/amrita-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/amrita-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/amrita_singh.pdf": "/amrita-portfolio/static/media/amrita_singh.c613d5cd083228257ee1.pdf",
+    "static/media/project1.png": "/amrita-portfolio/static/media/project1.c84a46c26ddc0831c611.png",
+    "static/media/project3.png": "/amrita-portfolio/static/media/project3.2403e42c7231746c7c0e.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/amrita-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/project2.png": "/amrita-portfolio/static/media/project2.7cac1ea534b9a98ac770.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/amrita-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/jsprojects.png": "/amrita-portfolio/static/media/jsprojects.69d8a7d905bd4c337471.png",
+    "static/media/github.png": "/amrita-portfolio/static/media/github.22cfdd1cba253783ce51.png",
+    "index.html": "/amrita-portfolio/index.html",
+    "main.0e0d1f56.css.map": "/amrita-portfolio/static/css/main.0e0d1f56.css.map",
+    "main.6c9f94f9.js.map": "/amrita-portfolio/static/js/main.6c9f94f9.js.map",
+    "787.a7438d8f.chunk.js.map": "/amrita-portfolio/static/js/787.a7438d8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e0d1f56.css",
+    "static/js/main.6c9f94f9.js"
+  ]
+}
