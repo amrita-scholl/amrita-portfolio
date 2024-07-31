@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/amrita-portfolio/static/css/main.0e0d1f56.css",
-    "main.js": "/amrita-portfolio/static/js/main.6c9f94f9.js",
+    "main.js": "/amrita-portfolio/static/js/main.0446e839.js",
     "static/js/787.a7438d8f.chunk.js": "/amrita-portfolio/static/js/787.a7438d8f.chunk.js",
     "static/media/luxurysteeldoors.png": "/amrita-portfolio/static/media/luxurysteeldoors.7202ce519b334bd1a2e2.png",
     "static/media/djzaame.png": "/amrita-portfolio/static/media/djzaame.19f0772a3f59b42ff5fe.png",
@@ -18,11 +18,11 @@
     "static/media/github.png": "/amrita-portfolio/static/media/github.22cfdd1cba253783ce51.png",
     "index.html": "/amrita-portfolio/index.html",
     "main.0e0d1f56.css.map": "/amrita-portfolio/static/css/main.0e0d1f56.css.map",
-    "main.6c9f94f9.js.map": "/amrita-portfolio/static/js/main.6c9f94f9.js.map",
+    "main.0446e839.js.map": "/amrita-portfolio/static/js/main.0446e839.js.map",
     "787.a7438d8f.chunk.js.map": "/amrita-portfolio/static/js/787.a7438d8f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e0d1f56.css",
-    "static/js/main.6c9f94f9.js"
+    "static/js/main.0446e839.js"
   ]
 }
