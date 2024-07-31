@@ -1,29 +1,43 @@
 [
   {
+    "id": 0,
+    "year": "Jun, 2022 to Feb,2024 ",
+    "companyname": "DBS Singapore (On the Payroll of Unison Consulting) ",
+    "position": "Senior Java Developer",
+    "desc": "- Java, Microservices, Kafka , AWS"
+  },
+  {
     "id": 1,
-    "year": "Aug, 2023 - Present",
-    "companyname": "AV DEVS Solutions",
-    "position": "Software Engineer | Full Time",
-    "desc": "-  TypeScript · Next.js · Tailwind CSS · React.js · HTML5 · css3 · JavaScript"
+    "year": "Nov, 2021 - March, 2022",
+    "companyname": "Infosys  (On the Payroll of Smart Folks Info Solutions) ",
+    "position": " Lead Consultant",
+    "desc": "- Forge Rock , OAuth , Java, Spring-boot, Micro Services"
   },
   {
     "id": 2,
-    "year": "Dec, 2022 - July, 2023",
-    "companyname": "Webbrains Technologies",
-    "position": "MERN Stack Developer | Full Time",
-    "desc": "- Wrote front-end and back-end code, integrated with 3+ frameworks and REST APIs, handled file uploads, authentication process and CRUD operations."
+    "year": "Dec, 2020 - Nov, 2021",
+    "companyname": "Mavenir Systems (On the Payroll Scoop Technologies)",
+    "position": "Principal Software Engineer",
+    "desc": "-  Java, Spring-boot, Microservices, Angular , Couchbase, Docker/K8 deployment of application"
   },
   {
     "id": 3,
-    "year": "Jun, 2020 - Jan, 2022",
-    "companyname": "Dots & Coms",
-    "position": "Web Developer | Full Time",
-    "desc": "- HTML, CSS, Bootstrap, Javascript, jQuery, Sass, Photoshop, Wordpress \n - Increase performance & speed of the website \n - SEO and Rankings"
+    "year": "June, 2018 - April, 2019",
+    "companyname": "VISA ",
+    "position": "Staff Software Engineer",
+    "desc": "-  Java, Spring, Hibernate, Micro-strategy,Angular JS, Node JS,MySQL,Python, Robot Automation Framework"
   },
   {
     "id": 4,
-    "year": "Jan, 2020 - May, 2020",
-    "companyname": "Enovative Media",
+    "year": "Oct, 2011 - April, 2018",
+    "companyname": "JP Morgan",
+    "position": "Application Developer",
+    "desc": "- Java, Angular"
+  },
+  {
+    "id": 5,
+    "year": "Feb,2017 - Sep, 2018",
+    "companyname": "Polaris",
     "position": "Web Developer | Part Time",
     "desc": "- HTML, CSS, Bootstrap, Javascript, jQuery \n - Wordpress (Elementor, Visual Composer, WP Bakery) \n - Customize themes"
   }

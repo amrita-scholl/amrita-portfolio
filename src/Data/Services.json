@@ -1,17 +1,32 @@
 [
   {
     "id": 1,
-    "servicename": "Graphic Design",
+    "servicename": "FullStack Development",
     "imgg": "https://raw.githubusercontent.com/poojagarva28/myportfolio/master/src/Data/Serviceimg/graphic-design.png"
   },
   {
     "id": 2,
-    "servicename": "Interface / Web Design",
+    "servicename": "Microservices Architecture",
     "imgg": "https://raw.githubusercontent.com/poojagarva28/myportfolio/master/src/Data/Serviceimg/web-design.png"
   },
   {
     "id": 3,
-    "servicename": "Web Development",
+    "servicename": "Data Engineering",
+    "imgg": "https://raw.githubusercontent.com/poojagarva28/myportfolio/master/src/Data/Serviceimg/web-development.png"
+  },
+  {
+    "id": 4,
+    "servicename": "Cloud Computing and DevOps",
+    "imgg": "https://raw.githubusercontent.com/poojagarva28/myportfolio/master/src/Data/Serviceimg/web-development.png"
+  },
+  {
+    "id": 5,
+    "servicename": "Monitoring and Logging",
+    "imgg": "https://raw.githubusercontent.com/poojagarva28/myportfolio/master/src/Data/Serviceimg/web-development.png"
+  },
+  {
+    "id": 6,
+    "servicename": "Gen AI Development",
     "imgg": "https://raw.githubusercontent.com/poojagarva28/myportfolio/master/src/Data/Serviceimg/web-development.png"
   }
 ]

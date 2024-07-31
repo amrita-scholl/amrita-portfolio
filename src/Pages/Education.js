@@ -1,6 +1,6 @@
 import React from "react";
-import "./Education.css";
 import services from "../Data/Education.json";
+import "./Education.css";
 
 const Education = () => {
   return (
@@ -21,6 +21,11 @@ const Education = () => {
               <li className="nav-item">
                 <a className="nav-link" data-bs-toggle="tab" href="#internship">
                   Internship
+                </a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" data-bs-toggle="tab" href="#certifications">
+                  Certifications
                 </a>
               </li>
             </ul>
@@ -48,21 +53,53 @@ const Education = () => {
                 <div className="educationblock">
                   <div className="row">
                     <div className="col-sm-4">
-                      <h5 data-aos="fade-right">Jan, 2019 - May, 2019</h5>
+                      <h5 data-aos="fade-right">April, 2024 - June, 2024</h5>
                     </div>
                     <div className="col-sm-8">
                       <div className="educationright" data-aos="fade-left">
-                        <h5>Infibeam Avenues Limited</h5>
-                        <h6>Project - "E-Commerce and Retailing System"</h6>
+                        <h5>CellStrat AI Lab</h5>
+                        <h6>Project - Imagine View KB Miner</h6>
+                        <br></br>
                         <h6>
-                          - HTML, CSS, Bootstrap, Javascript, jQuery
+                          - Python, RAG , GenAI, AWS
+                          <br></br>
                           <br />
-                          - Wordpress
+                          - Implemented solution to upload PDF’s and CSV’s and using RAG (using Lang &nbsp;&nbsp;chain, OpenAI,) 
+                            &nbsp;and deployed on AWS services like lambdas, lambda layers, for &nbsp;&nbsp;vectorization used up stash 
+                            &nbsp;and able to chat interactively with files even with the &nbsp;&nbsp;larger file until 50 mb. 
                           <br />
-                          - Customize Themes
+                          <br></br>
+                          - Worked on OCR Feature, analyzed all possible frameworks available and got to 
+                            &nbsp;&nbsp;work on solution which can work with handwritten images well enough. 
                           <br />
-                          - Woocommerce
-                          <br />- Stripe
+                          <br></br>
+                          - Identified text2sql feature which can be converted as a framework to be 
+                            &nbsp;&nbsp;architected so that no matter what is the data source, user’s queries will be 
+                            &nbsp;&nbsp;converted to SQL’s fetch data and chat history will be stored and users can filter 
+                            &nbsp;&nbsp;the data, this will be a whole set up on AWS and OpenAI
+                          <br />
+                          <br></br>
+                          - Worked with chalice API and cdk deployment on AWS for all features.
+                        </h6>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="tab-pane fade" id="certifications">
+                <div className="educationblock">
+                  <div className="row">
+
+                    <div className="col-sm-8">
+                      <div className="educationright" data-aos="fade-left">
+                        <h5>Professional Certifications</h5>
+                        <br></br>
+                        <h6>
+                          - AWS Certified Solutions Architect Associate   <br></br> &nbsp;&nbsp;(Issued in Dec,2023 Expires in Dec,2026)
+                          <br></br>
+                          <br />
+                          - Databricks Certified Data Engineer Associate <br></br> &nbsp;&nbsp;(Issued in Mar,2023 Expires in Mar,2025)
+                          <br />
                         </h6>
                       </div>
                     </div>

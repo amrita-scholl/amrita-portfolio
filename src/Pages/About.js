@@ -10,13 +10,9 @@ const About = () => {
             <div className="aboutcontent">
               <h2>About Me</h2>
               <p>
-                I'm a Front End Developer & Graphics Designer. I love to solve
-                design problems, develop new features and design prototypes
-                using different mediums. My work is mainly focused on
-                frontend-development. As for graphic designs, my work mainly
-                involves photo manipulation. Besides, I also like doing
-                photography and videography, where I can express my creative
-                thought process.
+              Hello! I'm Amrita Singh, a passionate Technologist with a flair for innovation and a wealth of experience 
+              in full-stack development, microservices, Kafka, and Generative AI. My journey in the tech world has been nothing
+              short of exhilarating, brimming with opportunities to create, innovate, and transform ideas into impactful software solutions.
               </p>
             </div>
           </div>

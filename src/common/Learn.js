@@ -4,7 +4,7 @@ import "./Learn.css";
 const Learn = () => {
   return (
     <a
-      href="https://drive.google.com/drive/folders/1TRlIYXPLPazrJb2lHQp5hmymqS4wj-Lx?usp=sharing"
+      href="https://drive.google.com/drive/u/0/home"
       target="_blank"
     >
       <div id="learn">

@@ -22,6 +22,16 @@
 #work h6.position {
   margin-top: -7px;
 }
+.educationright h6 {
+  white-space: pre-wrap; /* Ensure new lines are handled properly */
+}
+.scrollable-div {
+  height: 100vh; /* 50% of the viewport height */
+  overflow-y: auto;
+  overflow-x: hidden;
+  border: 1px solid #ddd; /* Optional */
+  padding: 10px; /* Optional */
+}
 @media (max-width: 767px) {
   #work {
     padding-top: 150px;
@@ -29,4 +39,11 @@
   #work h2 {
     margin-bottom: 0px !important;
   }
+  .scrollable-div {
+    height: 300px; /* Adjust for smaller screens */
+  }
 }
+
+
+
+
