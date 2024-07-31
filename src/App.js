@@ -1,19 +1,19 @@
-import Nav from "./common/Nav";
-import Home from "./Pages/Home";
-import "./common/Commoncss.css";
-import About from "./Pages/About";
-import Services from "./Pages/Services";
-import Education from "./Pages/Education";
-import Work from "./Pages/Work";
-import Contact from "./Pages/Contact";
-import Projects from "./Pages/Projects";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
 import React, { Route, Routes } from "react-router-dom";
-import PageNotFound from "./Pages/PageNotFound";
-import Jsprojects from "./Pages/Jsprojects";
+import "./common/Commoncss.css";
 import Learn from "./common/Learn";
+import Nav from "./common/Nav";
+import About from "./Pages/About";
+import Contact from "./Pages/Contact";
+import Education from "./Pages/Education";
+import Home from "./Pages/Home";
+import Jsprojects from "./Pages/Jsprojects";
+import PageNotFound from "./Pages/PageNotFound";
+import Projects from "./Pages/Projects";
+import Services from "./Pages/Services";
+import Work from "./Pages/Work";
 
 function App() {
   useEffect(() => {
@@ -24,14 +24,14 @@ function App() {
     <div>
       <Nav />
       <Learn />
-      {/* <Home/>
+      <Home/>
       <About />
       <Services/>s
       <Education/>
       <Work/>
-      <Contact/> */}
+      <Contact/>
       <Routes>
-        <Route exact="true" path="/myportfolio" element={<Home />}></Route>
+        <Route exact="true" path="/" element={<Home />}></Route>
         <Route path="/myportfolio" element={<Home />}></Route>
         <Route path="/about" element={<About />}></Route>
         <Route path="/services" element={<Services />}></Route>
