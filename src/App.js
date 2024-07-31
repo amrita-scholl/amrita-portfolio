@@ -24,14 +24,14 @@ function App() {
     <div>
       <Nav />
       <Learn />
-      <Home/>
+      {/* <Home/>
       <About />
       <Services/>s
       <Education/>
       <Work/>
-      <Contact/>
+      <Contact/> */}
       <Routes>
-        <Route exact="true" path="/" element={<Home />}></Route>
+        <Route exact="true" path="/amrita-portfolio" element={<Home />}></Route>
         <Route path="/myportfolio" element={<Home />}></Route>
         <Route path="/about" element={<About />}></Route>
         <Route path="/services" element={<Services />}></Route>
