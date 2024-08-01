@@ -4,8 +4,6 @@ import About from "../assets/img/about.png";
 import Contact from "../assets/img/contact.png";
 import Education from "../assets/img/education.png";
 import Home from "../assets/img/home.png";
-import Jsprojects from "../assets/img/jsprojects.png";
-import Projects from "../assets/img/portfolio.png";
 import Services from "../assets/img/services.png";
 import Work from "../assets/img/work.png";
 import "./Nav.css";
@@ -42,7 +40,7 @@ const Nav = () => {
               <img src={Education} alt="education" />
             </li>
           </Link>
-          <Link to="/projects">
+          {/* <Link to="/projects">
             <li data-aos="zoom-in">
               <img src={Jsprojects} alt="jsprojects" />
             </li>
@@ -51,7 +49,7 @@ const Nav = () => {
             <li data-aos="zoom-in">
               <img src={Projects} alt="portfolio" />
             </li>
-          </Link>
+          </Link> */}
           <Link to="/contact">
             <li data-aos="zoom-in">
               <img src={Contact} alt="contact" />
