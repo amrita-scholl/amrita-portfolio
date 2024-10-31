@@ -1,3 +1,3 @@
 # amrita-scholl.github.io
-Portfolio Website of 
+Portfolio Website for 
 Amrita Singh
